@@ -1,3 +1,2 @@
-# Data Science Project
-Diabetes prediction model using machine learning
-& Python
+# Diabetes prediction model using Machine Learning & Python
+Data Science Project
